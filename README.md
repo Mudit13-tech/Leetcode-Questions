@@ -17,6 +17,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -49,4 +50,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
