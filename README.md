@@ -7,6 +7,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -16,6 +17,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +51,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
