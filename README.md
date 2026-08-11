@@ -14,6 +14,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
