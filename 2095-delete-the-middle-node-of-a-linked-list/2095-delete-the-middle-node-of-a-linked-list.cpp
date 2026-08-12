@@ -15,20 +15,18 @@ public:
         int val = 0;
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* temp = head;
+        ListNode* prev = head;
         if(head->next == NULL || head == NULL){
             return NULL;
         }
         while(fast != NULL && fast->next != NULL){
+            prev = slow;
             slow = slow->next;
             fast = fast->next->next;
             count++;
         }
-        while(val != count-1){
-            temp = temp->next;
-            val++;
-        }
-        temp->next = temp->next->next;
+        prev->next = slow->next;
+        delete slow;
         return head;    
     }
 };
