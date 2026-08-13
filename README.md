@@ -15,6 +15,7 @@ solving questions of leetcode ,covering the optimal approach
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -70,4 +72,12 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
