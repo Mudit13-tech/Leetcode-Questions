@@ -18,6 +18,7 @@ solving questions of leetcode ,covering the optimal approach
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ solving questions of leetcode ,covering the optimal approach
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
