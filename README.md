@@ -25,6 +25,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -61,6 +62,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +82,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
@@ -120,4 +124,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
