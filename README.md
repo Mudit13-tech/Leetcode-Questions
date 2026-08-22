@@ -40,6 +40,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -51,6 +52,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +109,7 @@ solving questions of leetcode ,covering the optimal approach
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Floyd's Cycle Finding Algorithm
