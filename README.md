@@ -100,6 +100,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -159,4 +160,12 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
