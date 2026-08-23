@@ -164,6 +164,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
