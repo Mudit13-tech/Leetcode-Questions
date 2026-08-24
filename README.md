@@ -30,6 +30,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0141-linked-list-cycle](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -58,6 +59,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
@@ -94,6 +96,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0141-linked-list-cycle](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
