@@ -21,6 +21,7 @@ solving questions of leetcode ,covering the optimal approach
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3467-transform-array-by-parity](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3467-transform-array-by-parity](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +134,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
+| [3467-transform-array-by-parity](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 ## Queue
 |  |
 | ------- |
