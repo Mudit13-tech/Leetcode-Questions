@@ -12,6 +12,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -36,6 +37,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -44,6 +46,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [1539-kth-missing-positive-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Sliding Window
 |  |
@@ -94,6 +97,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
