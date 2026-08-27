@@ -14,6 +14,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0941-valid-mountain-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
