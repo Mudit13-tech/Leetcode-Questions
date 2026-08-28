@@ -148,6 +148,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Counting
@@ -199,6 +200,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
