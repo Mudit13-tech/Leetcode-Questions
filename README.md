@@ -146,6 +146,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
@@ -156,6 +157,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
@@ -192,4 +194,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
