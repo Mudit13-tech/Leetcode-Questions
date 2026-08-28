@@ -134,6 +134,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -146,6 +147,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Counting
@@ -198,4 +200,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
