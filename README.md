@@ -8,6 +8,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
@@ -218,4 +220,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
