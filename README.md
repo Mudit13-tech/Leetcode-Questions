@@ -22,6 +22,7 @@ solving questions of leetcode ,covering the optimal approach
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2404-most-frequent-even-element](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -205,6 +206,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
