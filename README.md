@@ -11,6 +11,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -46,6 +47,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [1539-kth-missing-positive-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
@@ -62,6 +64,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -91,6 +94,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
@@ -206,4 +210,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
