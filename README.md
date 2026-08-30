@@ -13,6 +13,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
@@ -63,6 +64,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -139,6 +141,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -177,6 +180,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
@@ -203,6 +207,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -240,4 +245,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
