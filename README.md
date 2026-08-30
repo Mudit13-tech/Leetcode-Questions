@@ -15,6 +15,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0941-valid-mountain-array) |
@@ -82,6 +83,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0160-intersection-of-two-linked-lists](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [2404-most-frequent-even-element](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -164,6 +166,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0155-min-stack](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -233,4 +236,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
