@@ -65,6 +65,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
@@ -85,6 +86,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -160,6 +162,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
