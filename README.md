@@ -21,6 +21,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -67,6 +68,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -75,6 +77,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -88,6 +91,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -215,6 +219,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
