@@ -39,6 +39,7 @@ solving questions of leetcode ,covering the optimal approach
 | [3467-transform-array-by-parity](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@ solving questions of leetcode ,covering the optimal approach
 | [2652-sum-multiples](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
