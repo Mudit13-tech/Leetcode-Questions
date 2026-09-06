@@ -274,4 +274,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
