@@ -17,6 +17,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -161,6 +162,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
@@ -187,6 +189,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0225-implement-stack-using-queues](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Counting
 |  |
