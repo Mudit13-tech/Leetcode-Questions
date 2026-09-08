@@ -241,6 +241,7 @@ solving questions of leetcode ,covering the optimal approach
 | [2652-sum-multiples](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
