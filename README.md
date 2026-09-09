@@ -31,6 +31,7 @@ solving questions of leetcode ,covering the optimal approach
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2404-most-frequent-even-element](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -191,6 +192,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +276,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
