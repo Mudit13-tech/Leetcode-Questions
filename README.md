@@ -19,6 +19,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -194,6 +195,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting
@@ -279,6 +281,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
