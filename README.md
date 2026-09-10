@@ -15,6 +15,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0219-contains-duplicate-ii](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -53,6 +54,7 @@ solving questions of leetcode ,covering the optimal approach
 | [0160-intersection-of-two-linked-lists](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -131,6 +133,7 @@ solving questions of leetcode ,covering the optimal approach
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0825-friends-of-appropriate-ages](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2974-minimum-number-game) |
@@ -262,6 +265,7 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Matrix
 |  |
@@ -285,4 +289,8 @@ solving questions of leetcode ,covering the optimal approach
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0178-rank-scores) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
