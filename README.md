@@ -158,6 +158,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -243,6 +244,7 @@ solving questions of leetcode ,covering the optimal approach
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
