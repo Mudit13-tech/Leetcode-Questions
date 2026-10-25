@@ -134,6 +134,7 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -254,6 +255,7 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
@@ -312,4 +314,8 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0455-assign-cookies) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
