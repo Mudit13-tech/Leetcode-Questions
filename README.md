@@ -134,6 +134,7 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
@@ -253,6 +254,7 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -289,6 +291,7 @@ too, so a problem can appear under more than one topic.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
