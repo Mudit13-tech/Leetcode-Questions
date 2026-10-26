@@ -133,6 +133,7 @@ too, so a problem can appear under more than one topic.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0070-climbing-stairs) |
@@ -189,6 +190,7 @@ too, so a problem can appear under more than one topic.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
@@ -280,6 +282,7 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -318,4 +321,8 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
