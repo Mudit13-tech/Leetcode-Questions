@@ -17,6 +17,7 @@ too, so a problem can appear under more than one topic.
 | [0041-first-missing-positive](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -272,6 +273,7 @@ too, so a problem can appear under more than one topic.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0231-power-of-two) |
 ## Design
 |  |
@@ -325,4 +327,5 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
