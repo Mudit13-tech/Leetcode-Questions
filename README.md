@@ -14,6 +14,7 @@ too, so a problem can appear under more than one topic.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -327,5 +328,6 @@ too, so a problem can appear under more than one topic.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
