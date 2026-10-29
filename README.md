@@ -198,6 +198,7 @@ too, so a problem can appear under more than one topic.
 | [0076-minimum-window-substring](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -218,6 +219,7 @@ too, so a problem can appear under more than one topic.
 | [0735-asteroid-collision](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mudit13-tech/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting
